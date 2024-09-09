@@ -1,3 +1,3 @@
 # LottoML
 
-Fun project to see what happens, when ML cracks lotto numbers.
+Fun project to see if the lottery game results are skewed.
